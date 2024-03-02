@@ -1,6 +1,7 @@
 
 
-***** I made this project with help of an youtube tutorial and i couldn't connect this with MONGODB ****
+***** Because of some errors I couldn't host the website though I have attached all of its files.
+for completing this assignment I took a reference on some technologies used in this project from some tutorials as of now I am a learner ****
 
 
 This project was bootstrapped with [Create React App]
